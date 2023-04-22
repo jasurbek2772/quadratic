@@ -1,0 +1,56 @@
+#otvet {
+	display: none;
+}
+
+body{
+	background-image: url(https://klike.net/uploads/posts/2022-10/1664969387_5-5.jpg);
+	text-align: center;
+	color: rgb(255, 255, 255);
+	font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+	font-size: 40px;
+	margin: 20px auto;
+}
+
+pre{
+	margin: 20px auto;
+	width: 500px;
+	padding: 25px;
+	background: green;
+	border: 1px solid black;
+	font-size: 18px;
+}
+
+input[type="number"]{
+	width: 100px;
+	height: 80px;
+	text-align: center;
+	font-size: 25px;
+
+}
+input[type="button"]{
+	background: #009f00;
+	border: none;
+	padding: 10px 35px;
+	font-size: 50px;
+	color: #fff;
+	border-radius: 15px;
+	cursor: pointer;
+}
+input[type="button"]:hover{
+	opacity: 10px;
+}
+
+.ft{
+	padding: 10px;
+	color: aqua;
+}
+h1{
+	font-size: 50px;
+	font-family:'Times New Roman', Times, serif;
+}
+.sup{
+	font-size: 70px;
+}
