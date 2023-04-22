@@ -1,0 +1,47 @@
+
+body{
+	text-align: center;
+	padding: 150px;
+	background-image: url(https://img.freepik.com/premium-vector/abstract-dark-brick-wall-background-creative-design-for-your-web-site_518299-623.jpg);
+}
+
+button{
+	
+	border: 20px;
+	border-radius: 200px 0 200px 0;
+	padding: 25px 120px;
+	text: 50px;
+}
+.reshebnik button{
+	background-image: url(https://i.pinimg.com/736x/6b/b8/bf/6bb8bfc93f4d236c5cb8446c4ed2f5fe.jpg);
+	color: aqua;
+	font-size: 30px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.inform button{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_E_rMpSMowbLNW41uRbvOkzHNZ8EyYOzRoB3u4kPEL5J6L6p2TEi1DYNpYTNerOIBfI&usqp=CAU);
+	color: aqua;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.algoritm button{
+	background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/thumbs/1614406712_25-p-kartinki-na-android-temnii-fon-26.jpg);
+	color: aqua;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+.test button{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRHUFa3dvCEm0ITt2BfSomM_ZjmTntOfAUnP0C3MfrbuKAI91mNaaIccxDkQhQY7HB6Q&usqp=CAU);
+	color: aqua;
+	font-size: 20px;
+	font-family: 'Times New Roman', Times, serif;
+}
+button:hover{
+    cursor: pointer;
+    color: royalblue;
+    border-radius: 0 200px 0 200px;
+	padding: 5%;
+	font-size: 250%;
+	
+}
+
